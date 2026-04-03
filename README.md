@@ -1,29 +1,17 @@
 # 🌿 Velvora – Shopify Skincare Store
 
-Velvora is a modern skincare e-commerce store built using Shopify, focused on delivering a clean, minimal, and user-friendly shopping experience.
-
-This project highlights my ability to design, structure, and manage a complete online store with product listings, filters, cart functionality, and checkout flow.
+Velvora is a modern skincare e-commerce store built using Shopify, focused on delivering a clean and user-friendly shopping experience.
 
 ---
 
 ## ✨ Key Highlights
 
-- 🛍️ Built a fully functional Shopify store
-- 📦 Managed 10+ skincare products with pricing & variants
-- 🎯 Designed clean and responsive UI
-- 🔍 Implemented product filtering (price & availability)
-- 🛒 Integrated cart and checkout system
-- 👤 Added customer login interface
-
----
-
-## 🛠️ Tools & Skills
-
-- Shopify Store Development  
-- Product Management  
-- UI/UX Design  
-- E-commerce Workflow  
-- Store Customization  
+- Built a fully functional Shopify store  
+- Added 10+ skincare products  
+- Designed clean and responsive UI  
+- Implemented product filters (price & availability)  
+- Integrated cart and checkout system  
+- Added user login functionality  
 
 ---
 
@@ -34,21 +22,19 @@ This project highlights my ability to design, structure, and manage a complete o
 
 ---
 
-### 🛍️ Product Listings
-![Products](products.png)  
-![More Products](product1.png)  
-![More Products](product3.png)
+### 🛍️ Products
+![Products](New-Product.png)
 
 ---
 
-### 📦 Collections
+### 📦 Collection
 ![Collection](collection.png)
 
 ---
 
 ### 🧴 Product Details
 ![Product Detail](product-detail.png)  
-![Product Info](Product info.png)
+![Product Info](Product-info.png)
 
 ---
 
@@ -58,7 +44,7 @@ This project highlights my ability to design, structure, and manage a complete o
 
 ---
 
-### 🛒 Cart Experience
+### 🛒 Cart
 ![Cart](cart-sidebar.png)
 
 ---
@@ -68,32 +54,19 @@ This project highlights my ability to design, structure, and manage a complete o
 
 ---
 
-### 👤 User Login
+### 👤 Login
 ![Login](login.png)
-
----
-
-## 📌 Project Overview
-
-This project demonstrates my capability to create a structured and visually appealing e-commerce store using Shopify. I focused on product organization, smooth navigation, and user experience to simulate a real-world online skincare brand.
 
 ---
 
 ## 🔗 Live Store
 
-👉 https://velvora-127.myshopify.com
+👉 https://velvora-127.myshopify.com  
+
+🔐 Password: (add your store password here if required)
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Conclusion
 
-- Add customer reviews & ratings  
-- Enhance branding (logo & theme styling)  
-- Optimize for mobile performance  
-- Integrate payment & shipping customization  
-
----
-
-## 🙌 Conclusion
-
-Velvora represents my hands-on experience with Shopify and my understanding of e-commerce workflows, from product setup to final checkout.
+This project demonstrates my ability to design and manage a complete e-commerce store using Shopify, including product setup, UI design, and user experience.
